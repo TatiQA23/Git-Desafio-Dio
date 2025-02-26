@@ -1,0 +1,77 @@
+História do usuário:
+Abordagem para estruturar requerimentos a partir da visão do usuário​
+
+Fórmula para capturar user stories:​
+
+Saber quem é o usuário que deseja a funcionalidade​
+
+Saber o que o usuário deseja​
+
+Entender a motivação e razão​
+
+Princípio 3C ( Cartão, conversa, confirmação)​
+
+
+
+Uso de outros artefatos é bem vindo desde que contribua para a compreensão : Diagramas, fluxogramas, mindmaps, protótipos, etc…​
+
+A discussão com a equipe é essencial para refinamento!
+
+
+
+
+INVEST​
+
+Independente ( Independent)​
+
+Negociável ( Negotiable)​
+
+Valiosa (Valuable)​
+
+Estimável (Estimable)​
+
+Pequena (Small)​
+
+Testável ( Testable)​
+
+
+
+Critérios de aceite:
+Confirmação se requisitos foram atendidos​
+
+Em forma de sentenças como um checklist​
+
+Uso de linguagem Guerkin( Given/ Then/ When)​
+
+
+Atenção:
+Sempre analise se a história está focado no usuário ou cliente​
+
+Histórias de usuário != requisitos bem definidos e documentados​
+
+Pense em INVEST​
+
+Pense nos requisitos de qualidade que não são pensadas pelo cliente​
+
+A User Storie pode e deve ser discutida pela equipe e criada colaborativamente.​
+
+Comunicação é essencial!​
+
+
+
+Papel do QA em uma planning:
+Verificar se as User Stories estão com escopo viável para entrega​
+
+Verificar que as histórias podem ser verificadas e validadas dentro do período correto​
+
+Analisar junto aos devs a complexidade da história sem comprometer a qualidade​
+
+Os QAs também participam do planning poker
+
+
+
+	​
+
+
+
+​

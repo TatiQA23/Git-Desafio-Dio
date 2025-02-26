@@ -1,0 +1,76 @@
+Principais Comandos
+🔹 Inicializar um repositório
+
+bash
+Copiar
+Editar
+git init
+Cria a pasta .git, tornando o diretório um repositório Git.
+
+🔹 Clonar um repositório existente
+
+bash
+Copiar
+Editar
+git clone URL_DO_REPOSITORIO
+Baixa um repositório remoto para sua máquina.
+
+🔹 Verificar o status do repositório
+
+bash
+Copiar
+Editar
+git status
+Mostra quais arquivos foram modificados ou adicionados.
+
+🔹 Adicionar arquivos para o próximo commit
+
+bash
+Copiar
+Editar
+git add .
+Adiciona todas as alterações ao staging area.
+
+🔹 Criar um commit (salvar alterações)
+
+bash
+Copiar
+Editar
+git commit -m "Mensagem do commit"
+Registra as mudanças com uma mensagem descritiva.
+
+🔹 Enviar alterações para o repositório remoto
+
+bash
+Copiar
+Editar
+git push origin main
+Envia as mudanças locais para o GitHub (branch main).
+
+🔹 Atualizar o repositório local com mudanças remotas
+
+bash
+Copiar
+Editar
+git pull origin main
+Baixa e mescla as mudanças do repositório remoto.
+
+🔹 Criar uma nova branch
+
+bash
+Copiar
+Editar
+git branch nome-da-branch
+🔹 Trocar para outra branch
+
+bash
+Copiar
+Editar
+git checkout nome-da-branch
+🔹 Mesclar uma branch na main
+
+bash
+Copiar
+Editar
+git merge nome-da-branch
+O Git facilita o versionamento e a colaboração no desenvolvimento de software.
